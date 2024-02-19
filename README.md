@@ -8,8 +8,8 @@ I mostly work with containerization, Docker, ECS and other ☁ Cloud based techn
 
 ![](https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif)
 
-📫 How to reach me?
-Visit my [Website](https://sakesh.com.np/). 🌐
-Connect with me on [LinkedIn](https://www.linkedin.com/in/sakesh/) 👨🏻‍💻
-Follow me on [Instagram](https://www.instagram.com/sakesh_karanjit) ✨
-Shoot Me an [Email](mailto:sakeshkaranjit@gmail.com) 💌
+📫 How to reach me?<br>
+Visit my [Website](https://sakesh.com.np/). 🌐 <br>
+Connect with me on [LinkedIn](https://www.linkedin.com/in/sakesh/) 👨🏻‍💻<br>
+Follow me on [Instagram](https://www.instagram.com/sakesh_karanjit) ✨ <br>
+Shoot Me an [Email](mailto:sakeshkaranjit@gmail.com) 💌<br>
