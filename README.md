@@ -6,7 +6,7 @@ I am Sakesh, AWS Community Builder and a DevOps Engineer from Nepal 🇳🇵 pas
 
 I mostly work with containerization, Docker, ECS and other ☁ Cloud based technologies. 🚀
 
-![](https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif)
+![](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/112pa8ezgoycrcp17wk5.gif)
 
 📫 How to reach me?<br>
 Visit my [Website](https://sakesh.com.np/). 🌐 <br>
