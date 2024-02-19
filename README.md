@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi Dear, 👋
 
-<!--
-**SakeshKaranjit/SakeshKaranjit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Sakesh, AWS Community Builder and a DevOps Engineer from Nepal 🇳🇵 passionate about continuous learning and developing applications. 🎯
 
-Here are some ideas to get you started:
+🌱 I’m currently learning AWS DevOps technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mostly work with containerization, Docker, ECS and other ☁ Cloud based technologies. 🚀
+
+![](https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif)
+
+📫 How to reach me?
+Visit my [Website](https://sakesh.com.np/). 🌐
+Connect with me on [LinkedIn](https://www.linkedin.com/in/sakesh/) 👨🏻‍💻
+Follow me on [Instagram](https://www.instagram.com/sakesh_karanjit) ✨
+Shoot Me an [Email](mailto:sakeshkaranjit@gmail.com) 💌
